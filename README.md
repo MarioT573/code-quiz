@@ -6,7 +6,7 @@ To help familiarize you with concepts, this project invites you to test a timed 
 
 ## Deployment
 
-N/A
+https://mariot573.github.io/code-quiz/
 
 ## Screenshots
 
